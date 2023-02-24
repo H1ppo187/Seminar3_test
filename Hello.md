@@ -38,6 +38,7 @@
 
 ## Работа с картинками
 
+Для добавления картинки в текс нужно поставить "!", затем в [] написать описание картинки и срау без пробела открыть () и вставить в них URL картинки.
 ![Пушок](https://avatars.mds.yandex.net/i?id=b6fac11cca260d1a0427142e47c691fbc4097d09-7763867-images-thumbs&n=13)
 
 [работа с маркдавн](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/)
